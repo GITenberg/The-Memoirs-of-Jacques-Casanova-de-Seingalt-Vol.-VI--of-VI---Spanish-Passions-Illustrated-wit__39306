@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1075
     wikipedia: http://en.wikipedia.org/wiki/Giacomo_Casanova
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39306#The-Memoirs-of-Jacques-Casanova-de-Seingalt-Vol.-VI--of-VI---Spanish-Passions-Illustrated-wit_
 gutenberg_issued: '2012-03-29'
 gutenberg_type: Text
 identifiers:
