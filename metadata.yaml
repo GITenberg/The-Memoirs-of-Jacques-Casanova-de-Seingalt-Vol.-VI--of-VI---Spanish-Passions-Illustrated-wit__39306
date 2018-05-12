@@ -1,0 +1,41 @@
+_repo: The-Memoirs-of-Jacques-Casanova-de-Seingalt-Vol.-VI--of-VI---Spanish-Passions-Illustrated-wit__39306
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Machen, Arthur
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '214'
+    url: http://www.gutenberg.org/2009/agents/214
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
+covers:
+- cover_type: archival
+  image_path: 39306-h/images/cover6min.jpg
+creator:
+  author:
+    agent_name: Casanova, Giacomo
+    aliases:
+    - Seingalt, Giacomo Girolamo Casanova de
+    - Seingalt, Jacques Casanova de
+    birthdate: 1725
+    deathdate: 1798
+    gutenberg_agent_id: '1075'
+    url: http://www.gutenberg.org/2009/agents/1075
+    wikipedia: http://en.wikipedia.org/wiki/Giacomo_Casanova
+description: ''
+gutenberg_issued: '2012-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Casanova, Giacomo, 1725-1798'
+- !lcsh 'Europe -- History -- 18th century -- Biography'
+title: "The Memoirs of Jacques Casanova de Seingalt, Vol. VI (of VI), \"Spanish Passions\"\
+  \r\nThe First Complete and Unabridged English Translation, Illustrated with Old\
+  \ Engravings"
+url: http://www.gutenberg.org/ebooks/39306
